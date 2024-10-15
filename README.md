@@ -77,7 +77,7 @@ Run the script to start sending SMS messages:
 
 ### Additional Notes
 
-- A ** 1-second delay ** is added between each SMS message to prevent exceeding Twilio's rate limits.
+- A **1-second delay** is added between each SMS message to prevent exceeding Twilio's rate limits.
 Ensure that your Twilio account is properly configured to send messages to the phone numbers provided in your JSON file.
 
 
