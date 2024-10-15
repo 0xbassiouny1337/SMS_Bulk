@@ -21,17 +21,17 @@ This project provides a Python script to send bulk SMS messages using the [Twili
    git clone https://github.com/0xbassiouny1337/SMS_Bulk.git
    ```
 
-###Navigate into the project directory:
+### Navigate into the project directory:
    ```bash
    cd SMS_Bulk
    ```
 
 
-###Install the required dependencies:
+### Install the required dependencies:
    ```bash
    pip install twilio
    ```
-##Setup Twilio Credentials
+## Setup Twilio Credentials
 
 Set up your Twilio account and obtain your credentials:
 
@@ -72,8 +72,8 @@ Run the script to start sending SMS messages:
 
 ### Error Handling
 
-- ** Invalid JSON File **: The script will notify you if the JSON file is missing or contains errors.
-- ** Missing Phone or Message**: If any phone or message fields are missing in the JSON file, the script will log an error for that entry.
+- **Invalid JSON File**: The script will notify you if the JSON file is missing or contains errors.
+- **Missing Phone or Message**: If any phone or message fields are missing in the JSON file, the script will log an error for that entry.
 
 ### Additional Notes
 
