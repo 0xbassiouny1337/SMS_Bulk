@@ -1,0 +1,10 @@
+[
+    {
+        "phone": "PHONE_NUMBER",
+        "message": "Hello, this is a test message."
+    },
+    {
+        "phone": "PHONE_NUMBER",
+        "message": "This is another test message."
+    }
+]
